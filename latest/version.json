@@ -1,0 +1,10 @@
+{
+  "version": "1.0.8",
+  "commit": "031293a9d8c10641c433d95c84078d69fa1b47e0",
+  "tag": "v1.0.8",
+  "publishedAtUtc": "2026-07-11T18:18:16.9995888Z",
+  "installer": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/download/v1.0.8/IntunePackageBuilder-Setup.exe",
+  "checksum": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/download/v1.0.8/IntunePackageBuilder-Setup.exe.sha256",
+  "portable": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/download/v1.0.8/Intune-Package-Builder-031293a-win-x64.zip",
+  "release": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/tag/v1.0.8"
+}
