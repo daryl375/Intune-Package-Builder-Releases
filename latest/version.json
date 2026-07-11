@@ -1,10 +1,10 @@
 {
-  "version": "1.0.10",
-  "commit": "45eaa80c4de81fdd2f393f4e04684eb58e80bfd2",
-  "tag": "v1.0.10",
-  "publishedAtUtc": "2026-07-11T18:27:45.1511952Z",
-  "installer": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/download/v1.0.10/IntunePackageBuilder-Setup.exe",
-  "checksum": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/download/v1.0.10/IntunePackageBuilder-Setup.exe.sha256",
-  "portable": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/download/v1.0.10/Intune-Package-Builder-45eaa80-win-x64.zip",
-  "release": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/tag/v1.0.10"
+  "version": "1.0.11",
+  "commit": "a3cfe76f039ecc41c896201d67a3e36c87f19764",
+  "tag": "v1.0.11",
+  "publishedAtUtc": "2026-07-11T18:33:07.4896411Z",
+  "installer": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/download/v1.0.11/IntunePackageBuilder-Setup.exe",
+  "checksum": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/download/v1.0.11/IntunePackageBuilder-Setup.exe.sha256",
+  "portable": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/download/v1.0.11/Intune-Package-Builder-a3cfe76-win-x64.zip",
+  "release": "https://github.com/daryl375/Intune-Package-Builder-Releases/releases/tag/v1.0.11"
 }
