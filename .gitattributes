@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
+# Normalize repository text consistently across Windows and other platforms.
 * text=auto
+.gitattributes text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.sha256 text eol=lf
+*.zip binary
+*.exe binary
